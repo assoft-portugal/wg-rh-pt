@@ -101,3 +101,4 @@ Temos muito gosto em contar com a sua colaboração neste projeto.
 ## Licença
 
 O código neste projeto está licenciado nos termos da [MIT License](https://github.com/assoft-portugal/WG-DMR/blob/master/LICENSE).
+

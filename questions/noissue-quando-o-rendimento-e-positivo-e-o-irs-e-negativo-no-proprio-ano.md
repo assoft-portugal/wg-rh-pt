@@ -1,4 +1,4 @@
-# noissue-Quando o rendimento é positivo e o IRS é negativo no próprio ano
+# Quando o rendimento é positivo e o IRS é negativo no próprio ano
 
 ## Questão
 
