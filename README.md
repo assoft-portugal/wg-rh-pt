@@ -6,7 +6,7 @@ Neste repositório, os fabricantes de software e o público em geral podem encon
 
 Este projeto propõe-se contribuir, de forma aberta e pública, para a normalização destes assuntos entre todos os _stakeholders_, em conjunto com os respetivos organismos de regulação, permitindo, por um lado, a aceleração dos processos de implementação e, por outro, a rápida adoção das boas práticas encontradas por todos os membros com responsabilidades diretas nestes processos.
 
-## Questões
+## Formulação de questões
 
 ### Introdução
 
@@ -18,13 +18,13 @@ Nesta parte encontra a descrição do processo e a forma como devem ser colocada
 
 Todas as novas questões devem respeitar o seguinte processo:
 
-1. O seu autor deve proceder à sua criação **usando este template**.
+1. O seu autor deve proceder à sua criação usando [**este template**](https://github.com/assoft-portugal/WG-DMR/blob/master/.github/ISSUE_TEMPLATE/question.md).
 2. A questão é posteriormente classificada para futura discussão, podendo assumir as seguintes classificações: `accepted` `hold` `declined` `duplicate`
 3. Se a questão for rejeitada \(declined\) ou estiver duplicada o processo é encerrado. Caso contrário, é-lhe atribuída a classificação de `accepted` dando-se início à discussão tal como previsto, que terá sempre como objetivo principal a apresentação de uma solução/resposta.
 4. Quando se chegar a um consenso sobre a melhor resposta ou melhor resolução a dar à questão, haverá lugar a uma discussão de fecho e iniciar-se-á o processo de publicação.
 5. O processo de publicação passa pela criação de **pull request** \([saiba mais](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)\), o que pode ser feito tanto por membros do repositório como por não membros, onde para além da discussão final sobre o tema, é efetuado o pedido para atualização do código, que terá como resultado a criação de uma nova questão/resolução em **questions**.
 
-## Propostas
+## Formulação de propostas
 
 ### Introdução
 
@@ -36,13 +36,13 @@ Nesta parte encontra a descrição do processo e a forma como devem ser colocada
 
 Todas as novas propostas devem respeitar o seguinte processo:
 
-1. O autor da proposta deve proceder à sua criação **usando este template**.
+1. O autor da proposta deve proceder à sua criação usando ****[**este template**](https://github.com/assoft-portugal/WG-DMR/blob/master/.github/ISSUE_TEMPLATE/proposal.md).
 2. A proposta é posteriormente classificada para futura discussão, podendo assumir as seguintes classificações: `accepted` `hold` `declined` `duplicate`
 3. Se a proposta for rejeitada \(declined\) ou já existir de alguma forma \(duplicada\) o processo é encerrado. Caso contrário, é iniciada uma discussão tal como previsto, com tem como grande objetivo detalhá-la e compreendê-la o mais possível.
 4. Quando se chegar a um consenso, haverá lugar a um discussão de fecho e iniciar-se-á o processo de publicação.
 5. O processo de publicação passa pela criação de **pull request** \([saiba mais](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)\), o que pode ser feito tanto por membros do repositório como por não membros, onde para além da discussão final sobre o tema, é efetuado o pedido para atualização do código, que terá como resultado a criação de uma nova proposta em **proposals**.
 
-## Regras e definições do repositório
+## Regras e definições deste repositório
 
 ### Objetivos
 
@@ -62,12 +62,12 @@ O processo de apresentação de questões ou de propostas deve ser usado com vis
 
 ### Templates
 
-Para organizar o trabalho de todos os intervenientes são disponibilizados templates para cada uma das funções deste repositório. Da mesma forma, os assuntos fechados, quer sejam questões ou propostas, ficarão organizados em duas áreas, **questions** e **proposals**, da forma mais normalizada possível.
+Para organizar o trabalho de todos os intervenientes são disponibilizados templates para cada uma das funções deste repositório. Da mesma forma, os assuntos fechados, quer sejam questões ou propostas, ficarão organizados em duas áreas, [**questions**](https://github.com/assoft-portugal/WG-DMR/blob/master/.github/ISSUE_TEMPLATE/question.md) e [**proposals**](https://github.com/assoft-portugal/WG-DMR/blob/master/.github/ISSUE_TEMPLATE/proposal.md), da forma mais normalizada possível.
 
 * Os documentos finais relacionados com as questões, são disponibilizados em `questions/NNNN-nomecurto.md`, em que `NNNN` corresponde ao número do Issue e o `nomecurto` será um nome a atribuir à questão.
 * Os documentos finais relacionados com as propostas, são disponibilizados em `proposals/NNNN-nomecurto.md`, em que `NNNN` corresponde ao número do Issue e o `nomecurto` será um nome a atribuir à proposta.
 * Clone este repositório `git clone https://github.com/assoft-portugal/WG-DMR.git` para poder trabalhar diretamente nele e fazer propostas de alteração mais facilmente.
-* Use os templates que disponibilizamos para **questões** ou para **propostas**.
+* Use os templates que disponibilizamos para [**questões**](https://github.com/assoft-portugal/WG-DMR/blob/master/.github/ISSUE_TEMPLATE/question.md) ou para [**propostas**](https://github.com/assoft-portugal/WG-DMR/blob/master/.github/ISSUE_TEMPLATE/proposal.md).
 * Os Issues devem endereçar questões específicas. Não use o mesmo Issue para múltiplos temas ou assuntos diversos, que não estejam diretamente relacionados.
 * Espere e proponha-se à discussão. É natural que os assuntos percorram várias fases até poderem ser considerados definitivamente fechados.
 * Use uma linguagem clara, objetiva e evite erros de ortografia.
