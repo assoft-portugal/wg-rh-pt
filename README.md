@@ -18,7 +18,7 @@ Nesta parte encontra a descrição do processo e a forma como devem ser colocada
 
 Todas as novas questões devem respeitar o seguinte processo:
 
-1. O seu autor deve proceder à sua criação **usando este template**.
+1. O seu autor deve proceder à sua criação [**usando este template**](https://github.com/assoft-portugal/wg-rh-pt/issues/new?assignees=\&labels=question\&template=question.md\&title=).
 2. A questão é posteriormente classificada para futura discussão, podendo assumir as seguintes classificações: - accepted - hold - declined - duplicate
 3. Se a questão for rejeitada (declined) ou estiver duplicada o processo é encerrado. Caso contrário, é-lhe atribuída a classificação de `accepted` dando-se início à discussão tal como previsto, que terá sempre como objetivo principal a apresentação de uma solução/resposta.
 4. Quando se chegar a um consenso sobre a melhor resposta ou melhor resolução a dar à questão, haverá lugar a uma discussão de fecho e iniciar-se-á o processo de publicação.
@@ -36,7 +36,7 @@ Nesta parte encontra a descrição do processo e a forma como devem ser colocada
 
 Todas as novas propostas devem respeitar o seguinte processo:
 
-1. O autor da proposta deve proceder à sua criação **usando este template**.
+1. O autor da proposta deve proceder à sua criação [**usando este template**](https://github.com/assoft-portugal/wg-rh-pt/issues/new?assignees=\&labels=proposal\&template=proposal.md\&title=).
 2. A proposta é posteriormente classificada para futura discussão, podendo assumir as seguintes classificações: - accepted - hold - declined - duplicate
 3. Se a proposta for rejeitada (declined) ou já existir de alguma forma (duplicada) o processo é encerrado. Caso contrário, é iniciada uma discussão tal como previsto, com tem como grande objetivo detalhá-la e compreendê-la o mais possível.
 4. Quando se chegar a um consenso, haverá lugar a um discussão de fecho e iniciar-se-á o processo de publicação.
@@ -96,7 +96,7 @@ Se tem questões sobre a informação deste repositório ou tem dúvidas acerca 
 
 Temos muito gosto em contar com a sua colaboração neste projeto.
 
-[Faça Fork deste repositório e envie o seus pull requests!](https://github.com/assoft-portugal/WG-DMR)
+Faça Fork deste [**repositório**](https://github.com/assoft-portugal/wg-rh-pt) e envie o seus pull requests!
 
 ## Licença
 
