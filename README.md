@@ -1,4 +1,4 @@
-# WG-DMR
+# #wg-rh-pt
 
 A Declaração Mensal de Remunerações consiste numa obrigação declarativa das entidades empregadoras perante a Segurança Social e a Autoridade Tributária e Aduaneira. A sua produção está implicitamente ligada aos sistemas de Software de Gestão para a área de recursos humanos.
 
@@ -20,9 +20,9 @@ Todas as novas questões devem respeitar o seguinte processo:
 
 1. O seu autor deve proceder à sua criação **usando este template**.
 2. A questão é posteriormente classificada para futura discussão, podendo assumir as seguintes classificações: - accepted - hold - declined - duplicate
-3. Se a questão for rejeitada \(declined\) ou estiver duplicada o processo é encerrado. Caso contrário, é-lhe atribuída a classificação de `accepted` dando-se início à discussão tal como previsto, que terá sempre como objetivo principal a apresentação de uma solução/resposta.
+3. Se a questão for rejeitada (declined) ou estiver duplicada o processo é encerrado. Caso contrário, é-lhe atribuída a classificação de `accepted` dando-se início à discussão tal como previsto, que terá sempre como objetivo principal a apresentação de uma solução/resposta.
 4. Quando se chegar a um consenso sobre a melhor resposta ou melhor resolução a dar à questão, haverá lugar a uma discussão de fecho e iniciar-se-á o processo de publicação.
-5. O processo de publicação passa pela criação de **pull request** \([saiba mais](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)\), o que pode ser feito tanto por membros do repositório como por não membros, onde para além da discussão final sobre o tema, é efetuado o pedido para atualização do código, que terá como resultado a criação de uma nova questão/resolução em **questions**.
+5. O processo de publicação passa pela criação de **pull request** ([saiba mais](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)), o que pode ser feito tanto por membros do repositório como por não membros, onde para além da discussão final sobre o tema, é efetuado o pedido para atualização do código, que terá como resultado a criação de uma nova questão/resolução em **questions**.
 
 ## Propostas
 
@@ -38,9 +38,9 @@ Todas as novas propostas devem respeitar o seguinte processo:
 
 1. O autor da proposta deve proceder à sua criação **usando este template**.
 2. A proposta é posteriormente classificada para futura discussão, podendo assumir as seguintes classificações: - accepted - hold - declined - duplicate
-3. Se a proposta for rejeitada \(declined\) ou já existir de alguma forma \(duplicada\) o processo é encerrado. Caso contrário, é iniciada uma discussão tal como previsto, com tem como grande objetivo detalhá-la e compreendê-la o mais possível.
+3. Se a proposta for rejeitada (declined) ou já existir de alguma forma (duplicada) o processo é encerrado. Caso contrário, é iniciada uma discussão tal como previsto, com tem como grande objetivo detalhá-la e compreendê-la o mais possível.
 4. Quando se chegar a um consenso, haverá lugar a um discussão de fecho e iniciar-se-á o processo de publicação.
-5. O processo de publicação passa pela criação de **pull request** \([saiba mais](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)\), o que pode ser feito tanto por membros do repositório como por não membros, onde para além da discussão final sobre o tema, é efetuado o pedido para atualização do código, que terá como resultado a criação de uma nova proposta em **proposals**.
+5. O processo de publicação passa pela criação de **pull request** ([saiba mais](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)), o que pode ser feito tanto por membros do repositório como por não membros, onde para além da discussão final sobre o tema, é efetuado o pedido para atualização do código, que terá como resultado a criação de uma nova proposta em **proposals**.
 
 ## Regras e definições do repositório
 
@@ -64,8 +64,8 @@ O processo de apresentação de questões ou de propostas deve ser usado com vis
 
 Para organizar o trabalho de todos os intervenientes são disponibilizados templates para cada uma das funções deste repositório. Da mesma forma, os assuntos fechados, quer sejam questões ou propostas, ficarão organizados em duas áreas, **questions** e **proposals**, da forma mais normalizada possível.
 
-* Os documentos finais relacionados com as questões, são disponibilizados em `questions/NNNN-nomecurto.md`, em que `NNNN` corresponde ao número do Issue e o `nomecurto` será um nome a atribuir à questão. 
-* Os documentos finais relacionados com as propostas, são disponibilizados em `proposals/NNNN-nomecurto.md`, em que `NNNN` corresponde ao número do Issue e o `nomecurto` será um nome a atribuir à proposta. 
+* Os documentos finais relacionados com as questões, são disponibilizados em `questions/NNNN-nomecurto.md`, em que `NNNN` corresponde ao número do Issue e o `nomecurto` será um nome a atribuir à questão.
+* Os documentos finais relacionados com as propostas, são disponibilizados em `proposals/NNNN-nomecurto.md`, em que `NNNN` corresponde ao número do Issue e o `nomecurto` será um nome a atribuir à proposta.
 * Clone este repositório `git clone https://github.com/assoft-portugal/WG-DMR.git` para poder trabalhar diretamente nele e fazer propostas de alteração mais facilmente.
 * Use os templates que disponibilizamos para **questões** ou para **propostas**.
 * Os Issues devem endereçar questões específicas. Não use o mesmo Issue para múltiplos temas ou assuntos diversos, que não estejam diretamente relacionados.
@@ -78,9 +78,9 @@ A liderança deste projeto é confiada a um conjunto de membros da Associação 
 
 São-lhes atribuídas funções de manutenção da atividade do grupo de trabalho, assim como, em particular no que tem que ver com a atividade deste repositório público, as funções de discussão e decisão sobre as questões ou propostas que são aceites e rejeitadas.
 
-Neste âmbito, o grande objetivo que se pretende alcançar pela liderança do grupo é o de proceder à constante revisão dos temas em aberto neste repositório, para o efeito da sua avaliação, assim, como o da preparação dos próximos passos, do plano de discussão, etc. A discussão propriamente dita deve acontecer dentro de cada Issue, sem prejuízo de se usarem outros meios para tal. 
+Neste âmbito, o grande objetivo que se pretende alcançar pela liderança do grupo é o de proceder à constante revisão dos temas em aberto neste repositório, para o efeito da sua avaliação, assim, como o da preparação dos próximos passos, do plano de discussão, etc. A discussão propriamente dita deve acontecer dentro de cada Issue, sem prejuízo de se usarem outros meios para tal.
 
-Os assuntos, por sua vez, são em regra objeto de revisão pelos membros do grupo, que podem deliberar sobre a sua aceitação, a sua rejeição ou quaisquer outros estados possíveis. 
+Os assuntos, por sua vez, são em regra objeto de revisão pelos membros do grupo, que podem deliberar sobre a sua aceitação, a sua rejeição ou quaisquer outros estados possíveis.
 
 ### Consenso
 
@@ -90,7 +90,7 @@ Caso não se consiga chegar a consenso, o grupo acorda em rever os assuntos com 
 
 ## Ajuda
 
-Se tem questões sobre a informação deste repositório ou tem dúvidas acerca da forma como encontrar a informação contacte a ASSOFT, através do [formulário de contacto](https://www.assoft.org/pt/16/contactos). 
+Se tem questões sobre a informação deste repositório ou tem dúvidas acerca da forma como encontrar a informação contacte a ASSOFT, através do [formulário de contacto](https://www.assoft.org/pt/16/contactos).
 
 ## Contributos
 
@@ -100,5 +100,4 @@ Temos muito gosto em contar com a sua colaboração neste projeto.
 
 ## Licença
 
-O código neste projeto está licenciado nos termos da [MIT License](https://github.com/assoft-portugal/WG-DMR/blob/master/LICENSE).
-
+O código neste projeto está licenciado nos termos da [MIT License](LICENSE/).
