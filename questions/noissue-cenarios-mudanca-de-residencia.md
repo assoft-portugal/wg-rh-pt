@@ -1,6 +1,6 @@
-# noissue-Cenários mudança de residência
+# Cenários mudança de residência
 
-**Última modificação**: 2020-07-15
+<table><thead><tr><th>ID</th><th>Título</th><th data-type="content-ref">Issue</th><th>Tipo</th><th>Criado</th><th>Modificado</th></tr></thead><tbody><tr><td>N/A</td><td>Cenários mudança de residência</td><td></td><td>Autoridade Tributária e Aduaneira (AT)</td><td>2020-07-15</td><td>2020-07-15</td></tr></tbody></table>
 
 ## Questão <a href="#problematica" id="problematica"></a>
 

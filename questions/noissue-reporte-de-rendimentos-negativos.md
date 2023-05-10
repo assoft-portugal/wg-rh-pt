@@ -1,6 +1,6 @@
-# noissue-Reporte de rendimentos negativos
+# Reporte de rendimentos negativos
 
-**Última modificação**: 2020-07-15
+<table><thead><tr><th>ID</th><th>Título</th><th data-type="content-ref">Issue</th><th>Tipo</th><th>Criado</th><th>Modificado</th></tr></thead><tbody><tr><td>N/A</td><td>Reporte de rendimentos negativos</td><td></td><td>Autoridade Tributária e Aduaneira (AT)</td><td>2020-07-15</td><td>2020-07-15</td></tr></tbody></table>
 
 ## Questão
 

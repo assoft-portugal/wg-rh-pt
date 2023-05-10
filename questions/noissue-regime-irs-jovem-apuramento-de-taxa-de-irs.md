@@ -1,8 +1,6 @@
-# noissue-Regime IRS Jovem - Apuramento de Taxa de IRS
+# Regime IRS Jovem - Apuramento de Taxa de IRS
 
-**Última modificação**: 2020-07-15
-
-
+<table><thead><tr><th>ID</th><th>Título</th><th data-type="content-ref">Issue</th><th>Tipo</th><th>Criado</th><th>Modificado</th></tr></thead><tbody><tr><td>N/A</td><td>Regime IRS Jovem - Apuramento de Taxa de IRS</td><td></td><td>Autoridade Tributária e Aduaneira (AT)</td><td>2020-07-15</td><td>2020-07-15</td></tr></tbody></table>
 
 O artigo 327.º da Lei n.º 2/2020, de 31 de março, aprovou o Orçamento do Estado para 2020, aditou ao Código do IRS o artigo 2.º-B.
 
