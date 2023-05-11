@@ -66,7 +66,7 @@ Para organizar o trabalho de todos os intervenientes são disponibilizados templ
 
 * Os documentos finais relacionados com as questões, são disponibilizados em `questions/NNNN-nomecurto.md`, em que `NNNN` corresponde ao número do Issue e o `nomecurto` será um nome a atribuir à questão.
 * Os documentos finais relacionados com as propostas, são disponibilizados em `proposals/NNNN-nomecurto.md`, em que `NNNN` corresponde ao número do Issue e o `nomecurto` será um nome a atribuir à proposta.
-* Clone este repositório `git clone https://github.com/assoft-portugal/WG-DMR.git` para poder trabalhar diretamente nele e fazer propostas de alteração mais facilmente.
+* Clone este repositório `git clone https://github.com/assoft-portugal/wg-rh-pt.git` para poder trabalhar diretamente nele e fazer propostas de alteração mais facilmente.
 * Use os templates que disponibilizamos para **questões** ou para **propostas**.
 * Os Issues devem endereçar questões específicas. Não use o mesmo Issue para múltiplos temas ou assuntos diversos, que não estejam diretamente relacionados.
 * Espere e proponha-se à discussão. É natural que os assuntos percorram várias fases até poderem ser considerados definitivamente fechados.
