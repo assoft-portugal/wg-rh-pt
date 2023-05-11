@@ -4,11 +4,13 @@
 
 **Palavras chave**: `novas tabelas de retenção na fonte` `rendimentos` `cálculo de irs` `remunerações` `2023`
 
+## Introdução
+
+Este documento fornece informações e orientações sobre o cálculo do IRS para ex-residentes no âmbito do Programa Regressar. O Programa Regressar prevê a exclusão de tributação de 50% dos rendimentos do trabalho dependente e dos rendimentos empresariais e profissionais dos sujeitos passivos, conforme estabelecido no n.º 1 do artigo 12.º-A do CIRS. Neste novo modelo de cálculo, surge a questão de como aplicar as taxas de retenção na fonte e manter as parcelas a abater e as parcelas adicionais a abater por cada dependente.
+
 ## Questão
 
-Exclusão de tributação de 50% dos rendimentos do trabalho dependente e dos rendimentos empresarias e profissionais dos sujeitos passivos nos termos do disposto no n.º 1 do artigo 12.º-A do CIRS. Na atual legislação nos anos em que vigora o regime, as entidades que procedam à retenção na fonte devem aplicar a taxa de retenção que respeita a apenas metade dos rendimentos.
-
-A questão que se coloca agora neste novo modelo de cálculo é se deve ser aplicado raciocínio semelhante, ou seja, aplicar taxa distinta derivada da taxa de retenção que respeita a apenas metade dos rendimentos mas manter a “parcela a abater” e a “parcela adicional a abater por cada dependente” da linha a que diz respeito o seu rendimento mensal.
+A questão que surge no contexto do Programa Regressar é se devemos aplicar um raciocínio semelhante ao regime anterior, ou seja, aplicar uma taxa de retenção que corresponda a apenas metade dos rendimentos, mantendo as "parcelas a abater" e as "parcelas adicionais a abater por cada dependente" da linha correspondente ao rendimento mensal.
 
 ## Enquadramento jurídico
 
@@ -16,12 +18,12 @@ A questão que se coloca agora neste novo modelo de cálculo é se deve ser apli
 
 ## Solução
 
-A solução neste momento aponta para que a taxa de IRS se aplique sobre a metade dos rendimentos sujeitos de acordo com a respetiva tabela de IRS, da seguinte forma:
+Neste momento, a solução aponta para a aplicação da taxa de IRS sobre metade dos rendimentos sujeitos, de acordo com a tabela de IRS correspondente. O cálculo do imposto segue os seguintes passos:
 
 1. Apura-se a totalidade do rendimento
 2. Divide-se por `2`
 3. Aplica-se a taxa correspondente a `1/2` do rendimento
 
 {% hint style="info" %}
-A parcela a abater é do escalão a corresponde 50% dos rendimentos, nos termos das novas regras em vigor a partir de julho de 2023.
+É importante destacar que a parcela a abater é do escalão a correspondente a 50% dos rendimentos, nos termos das novas regras em vigor a partir de julho de 2023.
 {% endhint %}
