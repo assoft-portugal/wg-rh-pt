@@ -1,4 +1,9 @@
-# Regime IRS Jovem - Apuramento de Taxa de IRS
+---
+description: Apuramento da Taxa de IRS
+layout: editorial
+---
+
+# IRS Jovem
 
 <table><thead><tr><th>ID</th><th>Título</th><th data-type="content-ref">Issue</th><th>Tipo</th><th>Criado</th><th>Modificado</th></tr></thead><tbody><tr><td>N/A</td><td>Regime IRS Jovem - Apuramento de Taxa de IRS</td><td></td><td>Autoridade Tributária e Aduaneira (AT)</td><td>2020-07-15</td><td>2020-07-15</td></tr></tbody></table>
 
@@ -26,24 +31,24 @@ Considerando o englobamento dos valores isentos:
 
 | Rúbricas salariais                       | Ano 3 - após a conclusão dos estudos |
 | ---------------------------------------- | -----------------------------------: |
-| Salário                                  |                             1.200,00 |
-| Subsídio de almoço (isento)              |                               120,00 |
-| Ajudas de custo (isento)                 |                               110,00 |
-| Total Abonos (sujeito e não sujeito)     |                             1.430,00 |
-| Base de referência                       |                           ﻿1.430,00﻿ |
-| ﻿﻿Taxa                                   |                               17,70% |
-| Desconto antes da comparação com limites |                               120,00 |
-| Limite ano -3 (2,5 \*IAS(438,81)/12)     |                                91,42 |
-| Nova base de incidência                  |                             1.108,42 |
-| IRS                                      |                             ﻿196,00﻿ |
+| Salário                                  |                             1,200.00 |
+| Subsídio de almoço (isento)              |                               120.00 |
+| Ajudas de custo (isento)                 |                               110.00 |
+| Total Abonos (sujeito e não sujeito)     |                             1,430.00 |
+| Base de referência                       |                           ﻿1,430.00﻿ |
+| ﻿﻿Taxa                                   |                               17.70% |
+| Desconto antes da comparação com limites |                               120.00 |
+| Limite ano -3 (2,5 \*IAS(438,81)/12)     |                                91.42 |
+| Nova base de incidência                  |                             1,108.42 |
+| IRS                                      |                             ﻿196.00﻿ |
 
 Cálculo sem o benefício:
 
-|                    |         |
-| ------------------ | ------: |
-| IRS                |  174,00 |
-| Taxa               |  14,50% |
-| Base de incidência | 1200,00 |
+|                    |          |
+| ------------------ | -------: |
+| IRS                |   174.00 |
+| Taxa               |   14.50% |
+| Base de incidência | 1,200.00 |
 
 ## Solução
 
