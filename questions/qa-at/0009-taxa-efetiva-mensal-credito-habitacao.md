@@ -1,6 +1,12 @@
+---
+layout: editorial
+---
+
 # Taxa efetiva mensal para trabalhadores com crédito à habitação
 
-<table><thead><tr><th>ID</th><th>Título</th><th data-type="content-ref">Issue</th><th>Tipo</th><th>Criado</th><th>Modificado</th></tr></thead><tbody><tr><td>0009</td><td>Redução da taxa efetiva mensal para trabalhadores com crédito à habitação</td><td>[#9](https://github.com/assoft-portugal/wg-rh-pt/issues/9)</td><td>Autoridade Tributária e Aduaneira (AT)</td><td>2023-04-05</td><td>2023-04-18</td></tr></tbody></table>
+| ID   | Título                                                                    | Issue                                                      | Tipo                                   | Criado     | Modificado |
+| ---- | ------------------------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------- | ---------- | ---------- |
+| 0009 | Redução da taxa efetiva mensal para trabalhadores com crédito à habitação | [#9](https://github.com/assoft-portugal/wg-rh-pt/issues/9) | Autoridade Tributária e Aduaneira (AT) | 2023-04-05 | 2023-04-18 |
 
 **Palavras chave**: `novas tabelas de retenção na fonte` `rendimentos` `cálculo de irs` `remunerações` `2023`
 
@@ -19,9 +25,9 @@ Atualmente quando o funcionário quer usufruir da medida de redução da taxa po
 
 ## Enquadramento jurídico
 
-De acordo com o [Despacho n.º 14043-B/2022](https://info.portaldasfinancas.gov.pt/pt/atualidades/legislativa/Paginas/Despacho_14043_B_2022.aspx)
+De acordo com o [Despacho n.º 14043-B/2022](https://info.portaldasfinancas.gov.pt/pt/atualidades/legislativa/Paginas/Despacho\_14043\_B\_2022.aspx)
 
->g) Nas condições de aplicação, previstas na Lei do Orçamento do Estado para 2023, da redução das retenções na fonte para titulares de crédito à habitação, a redução da taxa marginal máxima **deve ser de dois pontos percentuais, mantendo -se inalterada a parcela a abater e, se aplicável, a parcela adicional a abater por dependente.**
+> g) Nas condições de aplicação, previstas na Lei do Orçamento do Estado para 2023, da redução das retenções na fonte para titulares de crédito à habitação, a redução da taxa marginal máxima **deve ser de dois pontos percentuais, mantendo -se inalterada a parcela a abater e, se aplicável, a parcela adicional a abater por dependente.**
 
 ## Solução
 

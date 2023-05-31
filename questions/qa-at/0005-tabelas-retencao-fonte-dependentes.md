@@ -1,6 +1,12 @@
+---
+layout: editorial
+---
+
 # Novas tabelas de retenção na fonte: Dependentes
 
-<table><thead><tr><th>ID</th><th>Título</th><th data-type="content-ref">Issue</th><th>Tipo</th><th>Criado</th><th>Modificado</th></tr></thead><tbody><tr><td>0005</td><td>Dependentes</td><td>[#5](https://github.com/assoft-portugal/wg-rh-pt/issues/5)</td><td>Autoridade Tributária e Aduaneira (AT)</td><td>2023-04-05</td><td>2023-04-18</td></tr></tbody></table>
+| ID   | Título      | Issue                                                      | Tipo                                   | Criado     | Modificado |
+| ---- | ----------- | ---------------------------------------------------------- | -------------------------------------- | ---------- | ---------- |
+| 0005 | Dependentes | [#5](https://github.com/assoft-portugal/wg-rh-pt/issues/5) | Autoridade Tributária e Aduaneira (AT) | 2023-04-05 | 2023-04-18 |
 
 **Palavras chave**: `novas tabelas de retenção na fonte` `rendimentos` `cálculo de irs` `remunerações` `2023`
 

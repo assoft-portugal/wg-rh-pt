@@ -1,6 +1,12 @@
+---
+layout: editorial
+---
+
 # Cálculo de retroativos
 
-<table><thead><tr><th>ID</th><th>Título</th><th data-type="content-ref">Issue</th><th>Tipo</th><th>Criado</th><th>Modificado</th></tr></thead><tbody><tr><td>0003</td><td>Retroativos</td><td>[#3](https://github.com/assoft-portugal/wg-rh-pt/issues/3)</td><td>Autoridade Tributária e Aduaneira (AT)</td><td>2023-04-05</td><td>2023-04-18</td></tr></tbody></table>
+| ID   | Título      | Issue                                                      | Tipo                                   | Criado     | Modificado |
+| ---- | ----------- | ---------------------------------------------------------- | -------------------------------------- | ---------- | ---------- |
+| 0003 | Retroativos | [#3](https://github.com/assoft-portugal/wg-rh-pt/issues/3) | Autoridade Tributária e Aduaneira (AT) | 2023-04-05 | 2023-04-18 |
 
 **Palavras chave**: `novas tabelas de retenção na fonte` `rendimentos` `cálculo de irs` `remunerações` `2023`
 
@@ -18,11 +24,10 @@ Esta página fornece informações sobre o cálculo de retroativos no contexto d
 O enquadramento jurídico para o tratamento de rendimentos retroativos do próprio ano é fornecido pelo artigo 99º.E do Código do IRS. Esse artigo estabelece o mecanismo de retenção nos rendimentos das categorias A e H e contém informações relevantes para o cálculo de retroativos.
 
 > Artigo 99.º-E
-> 
-> **Mecanismo de retenção nos rendimentos das categorias A e H**
-> 
-> 1. A importância apurada mediante aplicação das taxas de retenção é arredondada para a unidade de euros inferior.
 >
+> **Mecanismo de retenção nos rendimentos das categorias A e H**
+>
+> 1. A importância apurada mediante aplicação das taxas de retenção é arredondada para a unidade de euros inferior.
 > 2. Quando **forem pagos ou colocados** à disposição do respetivo titular **rendimentos das categorias A ou H em mês, do mesmo ano, diferente daquele a que respeitam**, recalcula-se o imposto e retém-se apenas a diferença entre a importância assim determinada e aquela que, com referência ao mesmo período, tenha eventualmente sido retida.
 
 De acordo com esse artigo, parece-nos que é necessário aplicar a fórmula que se aplicava no período ao qual os rendimentos retroativos se referem, em vez de utilizar as tabelas do momento de colocação à disposição dos montantes, como mencionado na regra geral do artigo 99ºC, que contempla a regra geral de retenção na fonte.
@@ -43,18 +48,12 @@ Para ajudar a compreender o cálculo de retroativos, vamos apresentar um exemplo
 
 Suponha que temos os seguintes rendimentos e taxas de retenção na fonte para os meses de janeiro a julho:
 
-|            |         |         | **Janeiro** | **Fevereiro** | **Março** | **Abril** | **Maio** | **Junho** | **Julho** |
-|:-----------|:-------:|:-------:|:-----------:|:-------------:|:---------:|:---------:|:--------:|:---------:|:---------:|
-| Rendimento | 1000.00 | 1100.00 |      100.00 |        100.00 |    100.00 |    100.00 |   100.00 |    100.00 |   1100.00 |
-| Taxa       |  11.20% |  12.00% |             |               |           |           |          |           |           |
-| Imposto    |  112.00 |  132.00 |       20.00 |         20.00 |     20.00 |     20.00 |    20.00 |     20.00 |    122.00 |
+<table data-header-hidden data-full-width="false"><thead><tr><th width="145"></th><th align="right"></th><th align="right"></th><th align="right"></th><th width="109" align="right"></th><th width="89" align="right"></th><th width="88" align="right"></th><th width="85" align="right"></th><th width="91" align="right"></th><th align="right"></th></tr></thead><tbody><tr><td></td><td align="right"></td><td align="right"></td><td align="right"><strong>Janeiro</strong></td><td align="right"><strong>Fevereiro</strong></td><td align="right"><strong>Março</strong></td><td align="right"><strong>Abril</strong></td><td align="right"><strong>Maio</strong></td><td align="right"><strong>Junho</strong></td><td align="right"><strong>Julho</strong></td></tr><tr><td>Rendimento</td><td align="right">1000.00</td><td align="right">1100.00</td><td align="right">100.00</td><td align="right">100.00</td><td align="right">100.00</td><td align="right">100.00</td><td align="right">100.00</td><td align="right">100.00</td><td align="right">1100.00</td></tr><tr><td>Taxa</td><td align="right">11.20%</td><td align="right">12.00%</td><td align="right"></td><td align="right"></td><td align="right"></td><td align="right"></td><td align="right"></td><td align="right"></td><td align="right"></td></tr><tr><td>Imposto</td><td align="right">112.00</td><td align="right">132.00</td><td align="right">20.00</td><td align="right">20.00</td><td align="right">20.00</td><td align="right">20.00</td><td align="right">20.00</td><td align="right">20.00</td><td align="right">122.00</td></tr></tbody></table>
 
 A partir desses dados, podemos calcular o imposto retido em cada mês. Suponhamos que em julho ocorra o pagamento de retroativos referentes ao mês de junho, no valor de 600.00.
 
 **Recibo de Julho**:
 
-Vencimento base ....... 1100.00
-
-Retroativos ...................... 600.00
-
-IRS ...................................... 242.00
+Vencimento base ....... 1100.00\
+Retroativos .................. 600.00\
+IRS ................................ 242.00

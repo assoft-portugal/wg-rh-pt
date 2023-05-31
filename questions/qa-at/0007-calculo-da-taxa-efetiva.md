@@ -1,6 +1,12 @@
+---
+layout: editorial
+---
+
 # Cálculo da taxa efetiva
 
-<table><thead><tr><th>ID</th><th>Título</th><th data-type="content-ref">Issue</th><th>Tipo</th><th>Criado</th><th>Modificado</th></tr></thead><tbody><tr><td>0007</td><td>Cálculo da taxa efetiva</td><td>[#7](https://github.com/assoft-portugal/wg-rh-pt/issues/7)</td><td>Autoridade Tributária e Aduaneira (AT)</td><td>2023-04-05</td><td>2023-04-18</td></tr></tbody></table>
+| ID   | Título                  | Issue                                                      | Tipo                                   | Criado     | Modificado |
+| ---- | ----------------------- | ---------------------------------------------------------- | -------------------------------------- | ---------- | ---------- |
+| 0007 | Cálculo da taxa efetiva | [#7](https://github.com/assoft-portugal/wg-rh-pt/issues/7) | Autoridade Tributária e Aduaneira (AT) | 2023-04-05 | 2023-04-18 |
 
 **Palavras chave**: `novas tabelas de retenção na fonte` `rendimentos` `cálculo de irs` `remunerações` `2023`
 
@@ -14,7 +20,7 @@ Qual é a forma adequada de apresentar a taxa efetiva?
 
 ## Enquadramento jurídico
 
-De acordo com o ponto 8 do [Despacho n.º 14043-B/2022](https://info.portaldasfinancas.gov.pt/pt/atualidades/legislativa/Paginas/Despacho_14043_B_2022.aspx):
+De acordo com o ponto 8 do [Despacho n.º 14043-B/2022](https://info.portaldasfinancas.gov.pt/pt/atualidades/legislativa/Paginas/Despacho\_14043\_B\_2022.aspx):
 
 > Para efeitos do n.º 9 do artigo 99.º do Código do IRS, e nos casos em que o pagamento inclua mais do que uma remuneração, como é o caso, designadamente dos meses de pagamento de subsídios de férias e de Natal, as entidades pagadoras devem apresentar, em separado para cada remuneração, a taxa efetiva mensal de retenção na fonte, que resulta da aplicação da taxa marginal máxima, da parcela a abater e, se aplicável, da parcela adicional a abater por dependente.
 

@@ -1,6 +1,12 @@
+---
+layout: editorial
+---
+
 # A taxa efetiva mensal tem de ser calculada linha a linha?
 
-<table><thead><tr><th>ID</th><th>Título</th><th data-type="content-ref">Issue</th><th>Tipo</th><th>Criado</th><th>Modificado</th></tr></thead><tbody><tr><td>0008</td><td>A taxa efetiva mensal tem de ser calculada linha a linha?</td><td>[#8](https://github.com/assoft-portugal/wg-rh-pt/issues/8)</td><td>Autoridade Tributária e Aduaneira (AT)</td><td>2023-04-05</td><td>2023-04-18</td></tr></tbody></table>
+| ID   | Título                                                    | Issue                                                      | Tipo                                   | Criado     | Modificado |
+| ---- | --------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------- | ---------- | ---------- |
+| 0008 | A taxa efetiva mensal tem de ser calculada linha a linha? | [#8](https://github.com/assoft-portugal/wg-rh-pt/issues/8) | Autoridade Tributária e Aduaneira (AT) | 2023-04-05 | 2023-04-18 |
 
 **Palavras chave**: `novas tabelas de retenção na fonte` `rendimentos` `cálculo de irs` `remunerações` `2023`
 
@@ -14,7 +20,7 @@ De acordo com as instruções do regulador, é necessário considerar todo o ren
 
 ## Enquadramento jurídico
 
-Conforme o [Despacho n.º 14043-B/2022](https://info.portaldasfinancas.gov.pt/pt/atualidades/legislativa/Paginas/Despacho_14043_B_2022.aspx)
+Conforme o [Despacho n.º 14043-B/2022](https://info.portaldasfinancas.gov.pt/pt/atualidades/legislativa/Paginas/Despacho\_14043\_B\_2022.aspx)
 
 ## Solução
 

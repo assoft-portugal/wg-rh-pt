@@ -1,6 +1,12 @@
+---
+layout: editorial
+---
+
 # Programa regressar
 
-<table><thead><tr><th>ID</th><th>Título</th><th data-type="content-ref">Issue</th><th>Tipo</th><th>Criado</th><th>Modificado</th></tr></thead><tbody><tr><td>0001</td><td>Programa regressar - Forma do cálculo de IRS dos ex-residentes</td><td>[#1](https://github.com/assoft-portugal/wg-rh-pt/issues/1)</td><td>Autoridade Tributária e Aduaneira (AT)</td><td>2020-07-15</td><td>2023-04-05</td></tr></tbody></table>
+| ID   | Título                                                         | Issue                                                      | Tipo                                   | Criado     | Modificado |
+| ---- | -------------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------- | ---------- | ---------- |
+| 0001 | Programa regressar - Forma do cálculo de IRS dos ex-residentes | [#1](https://github.com/assoft-portugal/wg-rh-pt/issues/1) | Autoridade Tributária e Aduaneira (AT) | 2020-07-15 | 2023-04-05 |
 
 **Palavras chave**: `novas tabelas de retenção na fonte` `rendimentos` `cálculo de irs` `remunerações` `2023`
 
@@ -14,7 +20,7 @@ A questão que surge no contexto do Programa Regressar é se devemos aplicar um 
 
 ## Enquadramento jurídico
 
-* [Despacho n.º 14043-B/2022](https://info.portaldasfinancas.gov.pt/pt/atualidades/legislativa/Paginas/Despacho_14043_B_2022.aspx)
+* [Despacho n.º 14043-B/2022](https://info.portaldasfinancas.gov.pt/pt/atualidades/legislativa/Paginas/Despacho\_14043\_B\_2022.aspx)
 
 ## Solução
 
